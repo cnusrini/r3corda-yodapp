@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Cordapp-Workflow-Licence: Apache License, Version 2.0
+Cordapp-Contract-Vendor: Corda Open Source
+Cordapp-Contract-Version: 1
+Cordapp-Contract-Name: Yo CorDapp
+Cordapp-Workflow-Version: 1
+Target-Platform-Version: 4
+Sealed: true
+Cordapp-Workflow-Name: Yo CorDapp
+Min-Platform-Version: 4
+Cordapp-Contract-Licence: Apache License, Version 2.0
+Cordapp-Workflow-Vendor: Corda Open Source
+
